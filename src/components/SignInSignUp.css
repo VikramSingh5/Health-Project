@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+.container{
+    margin-top: 150px;
+}
+
+.input_fields{
+    margin-bottom: 10px;
+}
+
+input{
+    height: 30px;
+    width: 20%;
+    font-size: 18px;
+    text-align: left;
+}
+
+button{
+    width: 15%;
+    padding: 10px;
+    background-color: #f9a61c;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: white;
+    letter-spacing: 4px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #956314;
+}
+
+.head-label{
+    margin: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #f9a61c;
+}
+
